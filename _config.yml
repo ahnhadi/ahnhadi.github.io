@@ -93,7 +93,7 @@ analytics:
   provider: "google-gtag"
   # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id: "ireahxxx"
+    tracking_id: "G-9EDMSDHTEW"
     anonymize_ip: # true, false (default)
 
 # Site Author
