@@ -18,13 +18,13 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Python"
-    url: /categories/python/
   - title: "Algorithm"
     url: /categories/algorithm/
-  - title: "Web"
-    url: /categories/web/
-  - title: "GitHub Blog"
-    url: /categories/github-blog/
   - title: "Data Structure"
     url: /categories/data-structure/
+  - title: "GitHub Blog"
+    url: /categories/github-blog/
+  - title: "Python"
+    url: /categories/python/
+  - title: "Web"
+    url: /categories/web/
