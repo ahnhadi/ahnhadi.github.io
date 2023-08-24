@@ -1,12 +1,12 @@
 ---
-title: "Hi! I'm👋🏻"
+title: "Hi! I'm hadi_👋🏻"
 permalink: /about/
 layout: single
 comments: false
 ---
 
 <div>
-    <img src="/assets/images/whoiam.jpg" alt="about_meee" width="70%" min-width="700px" itemprop="image">
+    <img src="/assets/images/whoiam.jpg" alt="about_meee" width="40%" min-width="400px" itemprop="image">
 </div>
 
 
