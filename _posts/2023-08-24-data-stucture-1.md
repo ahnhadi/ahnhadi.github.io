@@ -110,13 +110,21 @@ last_modified_at: 2023-08-24 # 최종 수정 날짜
 ---
 # ❗️List, Set, Map 주요 특징 정리
 |인터페이스|구현체      |순서 유지|중복 허용        |기타
+
 |:-----:|:--------:|:-----:|:-------------:|:-------------------------------------------------:
+
 |List   |ArrayList |O      |O              | 
+
 |       |LinkedList|O      |O              | 
+
 |Set    |HashSet   |X      |X              | 
+
 |       |TreeSet   |X      |X              |입력 순서는 유지하지 않으나, 입력된 데이터에 따라 정렬되어 저장
+
 |Map    |HashMap   |X      |key:X / value:O| 
+
 |       |TreeMap   |X      |key:X / value:O|입력 순서는 유지하지 않으나, 입력된 key 데이터에 따라 정렬되어 저장
+
 
 
 
@@ -168,7 +176,7 @@ public class Main
 
 
 
-
+---
 ##### 참고
 https://xzio.tistory.com/1828
 
