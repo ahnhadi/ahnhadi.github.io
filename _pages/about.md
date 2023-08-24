@@ -26,10 +26,10 @@ comments: false
             <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">  ireahxxx@gmail.com</span>
           </a>
         </li>
-        <!-- <li>
-          <a href="https://www.instagram.com/choiiis.dev/" itemprop="sameAs" rel="nofollow noopener noreferrer">
-            <i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">  https://www.instagram.com/ahnhadi.dev/</span>
+        <li>
+          <a href="" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">  no instagram</span>
           </a>
-        </li> -->
+        </li>
     </ul>
   </div>
