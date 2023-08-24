@@ -283,16 +283,16 @@ defaults:
       sidebar:
         nav: "categories"
 
-# comments
-<script src="https://utteranc.es/client.js"
-        repo="ahnhadi/ahnhadi.github.io"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
-comments:
-  provider: "utterances"
-  utterances:
-    theme: "github-light"
-    issue-term: "pathname"
+# # comments
+# <script src="https://utteranc.es/client.js"
+#         repo="ahnhadi/ahnhadi.github.io"
+#         issue-term="pathname"
+#         theme="github-light"
+#         crossorigin="anonymous"
+#         async>
+# </script>
+# comments:
+#   provider: "utterances"
+#   utterances:
+#     theme: "github-light"
+#     issue-term: "pathname"
