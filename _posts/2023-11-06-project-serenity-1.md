@@ -3,7 +3,7 @@ title: "[Diary] 개인 프로젝트 'Serenity' 시작"
 excerpt: "개발자용 인스타그램"
 
 categories: # 카테고리 설정
-  - diary
+  - Diary
 tags: # 포스트 태그
   - [project, springboot, 1person]
 
