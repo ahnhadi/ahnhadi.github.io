@@ -1,6 +1,6 @@
 ---
 title: "[Diary] 개인 프로젝트 'Serenity' 시작"
-excerpt: "개발자용 인스타그램"
+excerpt: "개인 블로그 만들기 프로젝트"
 
 categories: # 카테고리 설정
   - Diary
@@ -12,8 +12,8 @@ permalink: /diary/project-serenity-01/ # 포스트 URL
 toc: true # 우측에 본문 목차 네비게이션 생성
 toc_sticky: true # 본문 목차 네비게이션 고정 여부
 
-date: 2023-11-06 # 작성 날짜
-last_modified_at: 2023-11-06 # 최종 수정 날짜
+date: 2023-11-23 # 작성 날짜
+last_modified_at: 2023-11-23 # 최종 수정 날짜
 ---
 
 # 개인 프로젝트의 시작🔛
